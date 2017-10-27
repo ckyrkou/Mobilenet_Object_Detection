@@ -2,6 +2,8 @@
 
 ![](assets/clip.gif)
 
+Unzip frozen_inference_graph.zip within folder <ssd_mobilenet_v1_coco_11_06_2017> to use for inference
+
 In lab this you will:
 
 * Learn about *MobileNets* and separable depthwise convolutions.
