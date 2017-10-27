@@ -1,5 +1,7 @@
 # CarND Object Detection Lab
 
+ Rapid object detection suitable for implementation in autonomous vehicles from the Udacity Self-driving Car Engineer Nanodegree.
+
 ![](assets/clip.gif)
 
 In lab this you will:
